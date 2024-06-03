@@ -1,0 +1,220 @@
+[
+  {
+    "medName": "Doliprane",
+    "medImage": "https://mega.nz/file/Ums2RRpR#4ppjiqwsvXYHG65xrr95vyLyOUYHCKSdDESwkSgOfiY",
+    "activeIngredients": [
+      "Paracetamol"
+    ],
+    "indications": [
+      "Pain relief",
+      "Fever",
+      "Headache"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Rashes",
+      "Skin peeling",
+      "Jaundice"
+    ],
+    "medNameArabic": "دوليبران",
+    "activeIngredientsArabic": [
+      "باراسيتامول"
+    ],
+    "indicationsArabic": [
+      "تخفيف الألم",
+      "تخفيض الحرارة",
+      "الصداع"
+    ],
+    "sideEffectsArabic": [
+      "غثيان",
+      "طفح جلدي",
+      "تقشر الجلد",
+      "يرقان"
+    ],
+    "price": "28.5"
+  },
+  {
+    "medName": "Panadol Advance",
+    "medImage": "https://mega.nz/file/h3cWVLAB#0ytVn9UiDKMaVx4kEg_m9YN46sca9yB7F3AN7o8AFFQ",
+    "activeIngredients": [
+      "Paracetamol"
+    ],
+    "indications": [
+      "Colds and flu",
+      "Muscle and joint pain",
+      "Postoperative pain",
+      "Menstrual pain",
+      "Migraines",
+      "toothache",
+      "sore throat",
+      "Fever",
+      "Headache"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Rashes",
+      "Skin peeling",
+      "Jaundice"
+    ],
+    "medNameArabic": "بانادول ادفانس",
+    "activeIngredientsArabic": [
+      "باراسيتامول"
+    ],
+    "indicationsArabic": [
+      "نزلات البرد والأنفلونزا",
+      "آلام العضلات والمفاصل",
+      "آلام ما بعد الجراحة",
+      "آلام الدورة الشهرية",
+      "الصداع النصفي",
+      "آلام الأسنان",
+      "التهاب الحلق",
+      "الحمى"
+    ],
+    "sideEffectsArabic": [
+      "غثيان",
+      "طفح جلدي",
+      "تقشر الجلد",
+      "يرقان"
+    ],
+    "price": "31"
+  },
+  {
+    "medName": "Naproxen",
+    "medImage": "https://mega.nz/file/ZnEn3ITD#WweYZYylrytaf8eu0DxQuC74S2P498zGg3jpM0faUtI",
+    "activeIngredients": [
+      "Naproxen"
+    ],
+    "indications": [
+      "Headache",
+      "Toothache",
+      "Fever",
+      "PMS",
+      "Bleeding"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Vomiting",
+      "Constipation or diarrhea",
+      "Drowsiness or insomnia"
+    ],
+    "medNameArabic": "نابروكسين",
+    "activeIngredientsArabic": [
+      "نابروكسين"
+    ],
+    "indicationsArabic": [
+      "صداع",
+      "ألم الأسنان",
+      "خافض للحرارة",
+      "الدورة الشهرية",
+      "النزيف"
+    ],
+    "sideEffectsArabic": [
+      "الغثيان ",
+      "القيء",
+      "الإمساك أو الإسهال",
+      "النعاس أو الأرق"
+    ],
+    "price": ""
+  },
+  {
+    "medName": "Ibuprofen",
+    "medImage": "https://mega.nz/file/xzlwgABR#XQx3w-YVAgwt6ZP-fYAB3S2batJCA6Htln4Uk0XiaA4",
+    "activeIngredients": [
+      "Ibuprofen"
+    ],
+    "indications": [
+      "Analgesic",
+      "Fever",
+      "Toothache"
+    ],
+    "sideEffects": [
+      "Flatulence",
+      "Anemia",
+      "Diarrhea"
+    ],
+    "medNameArabic": "إيبوبروفين",
+    "activeIngredientsArabic": [
+      "إيبوبروفين"
+    ],
+    "indicationsArabic": [
+      "مسكن ألم",
+      "خافض للحرارة",
+      "ألم الأسنان"
+    ],
+    "sideEffectsArabic": [
+      "انتفاخ البطن",
+      "فقر الدم",
+      "الإسهال"
+    ],
+    "price": ""
+  },
+  {
+    "medName": "Cetal",
+    "medImage": "https://mega.nz/file/0y0T0KCB#6Xq28_83IPpVpo1S3XuFXr8A6KSwSq_A4yWh6tBx_dA",
+    "activeIngredients": [
+      "Paracetamol"
+    ],
+    "indications": [
+      "Pain relief",
+      "Fever",
+      "Headache"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Rashes",
+      "Jaundice"
+    ],
+    "medNameArabic": "سيتال",
+    "activeIngredientsArabic": [
+      "باراسيتامول"
+    ],
+    "indicationsArabic": [
+      "تخفيف الألم",
+      "تخفيض الحرارة",
+      "الصداع"
+    ],
+    "sideEffectsArabic": [
+      "غثيان",
+      "طفح جلدي",
+      "تقشر الجلد",
+      "يرقان"
+    ],
+    "price": "13"
+  },
+  {
+    "medName": "Brufen",
+    "medImage": "https://mega.nz/file/4mchyQ6J#PKR4L264BQvBzXLAk0mom5NZcMIix86IxGltNmvWAw4",
+    "activeIngredients": [
+      "Ibuprofen"
+    ],
+    "indications": [
+      "Headache",
+      "Joint, bone, and cartilage pain",
+      "Toothache",
+      "PMS"
+    ],
+    "sideEffects": [
+      "Diarrhea",
+      "Constipation",
+      "Nausea",
+      "Gastritis"
+    ],
+    "medNameArabic": "بروفين",
+    "activeIngredientsArabic": [
+      "إيبوبروفين"
+    ],
+    "indicationsArabic": [
+      "صداع",
+      "ألم المفاصل، والعظام، والغضاريف",
+      "آلام الأسنان",
+      "آلام الدورة الشهرية"
+    ],
+    "sideEffectsArabic": [
+      "الإسهال",
+      "الإمساك",
+      "الغثيان ",
+      "التهاب المعدة"
+    ],
+    "price": "51"
+  }
+]
