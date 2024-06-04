@@ -57,24 +57,32 @@ const editMed = async (req, res) => {
 
 const createMed = async (req, res) => {
     try {
-        const medImage = imgUtil.generateImagePath(req, 'med_images')
+        if (!req.file) {
+            return res.status(StatusCodes.BAD_REQUEST).json({
+                success: false,
+                message: 'No image file uploaded.',
+            });
+        }
 
-        const med = await medInfo.create({ ...req.body, medImage })
+        const medImage = imgUtil.generateImagePath(req, 'med_images');
 
-        await med.save()
+        const med = await medInfo.create({ ...req.body, medImage });
+
+        await med.save();
 
         return res.status(StatusCodes.CREATED).json({
             success: true,
             message: 'Medicine Created Successfully.',
         });
     } catch (error) {
-        console.error('Error creating medicine:', error)
+        console.error('Error creating medicine:', error);
         return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
             success: false,
             message: 'Error creating medicine. Please try again later.',
         });
     }
 };
+
 
 const deleteMed = async (req, res) => {
     const { _id } = req.body

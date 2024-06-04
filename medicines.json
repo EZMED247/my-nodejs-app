@@ -1,7 +1,7 @@
 [
   {
     "medName": "Doliprane",
-    "medImage": "med_images/Doliprane.png",
+    "medImage": "http://10.0.2.2:3000/med_images/Doliprane.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -35,7 +35,7 @@
   },
   {
     "medName": "Panadol Advance",
-    "medImage": "med_images/panadol advance.png",
+    "medImage": "http://10.0.2.2:3000/med_images/panadol advance.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -80,7 +80,7 @@
   },
   {
     "medName": "Naproxen",
-    "medImage": "med_images/naproxen.png",
+    "medImage": "http://10.0.2.2:3000/med_images/naproxen.png",
     "activeIngredients": [
       "Naproxen"
     ],
@@ -118,7 +118,7 @@
   },
   {
     "medName": "Ibuprofen",
-    "medImage": "med_images/ibuprofen.png",
+    "medImage": "http://10.0.2.2:3000/med_images/ibuprofen.png",
     "activeIngredients": [
       "Ibuprofen"
     ],
@@ -150,7 +150,7 @@
   },
   {
     "medName": "Cetal",
-    "medImage": "med_images/cetal.png",
+    "medImage": "http://10.0.2.2:3000/med_images/cetal.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -183,7 +183,7 @@
   },
   {
     "medName": "Brufen",
-    "medImage": "med_images/brufen.png",
+    "medImage": "http://10.0.2.2:3000/med_images/brufen.png",
     "activeIngredients": [
       "Ibuprofen"
     ],
