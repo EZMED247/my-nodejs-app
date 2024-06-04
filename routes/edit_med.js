@@ -5,9 +5,11 @@ const {
     createMed,
     deleteMed
 } = require('../controllers/edit_med')
+const multer = require('multer')
+const upload = multer({ dest: 'uploads/' })
 
-router.put('/', editMed)
-router.post('/', createMed)
+router.put('/', upload.single('medImage'), editMed)
+router.post('/', upload.single('medImage'), createMed)
 router.delete('/', deleteMed)
 
 module.exports = router

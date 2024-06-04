@@ -1,7 +1,7 @@
 [
   {
     "medName": "Doliprane",
-    "medImage": "https://mega.nz/file/Ums2RRpR#4ppjiqwsvXYHG65xrr95vyLyOUYHCKSdDESwkSgOfiY",
+    "medImage": "med_images/Doliprane.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -35,7 +35,7 @@
   },
   {
     "medName": "Panadol Advance",
-    "medImage": "https://mega.nz/file/h3cWVLAB#0ytVn9UiDKMaVx4kEg_m9YN46sca9yB7F3AN7o8AFFQ",
+    "medImage": "med_images/panadol advance.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -80,7 +80,7 @@
   },
   {
     "medName": "Naproxen",
-    "medImage": "https://mega.nz/file/ZnEn3ITD#WweYZYylrytaf8eu0DxQuC74S2P498zGg3jpM0faUtI",
+    "medImage": "med_images/naproxen.png",
     "activeIngredients": [
       "Naproxen"
     ],
@@ -118,7 +118,7 @@
   },
   {
     "medName": "Ibuprofen",
-    "medImage": "https://mega.nz/file/xzlwgABR#XQx3w-YVAgwt6ZP-fYAB3S2batJCA6Htln4Uk0XiaA4",
+    "medImage": "med_images/ibuprofen.png",
     "activeIngredients": [
       "Ibuprofen"
     ],
@@ -150,7 +150,7 @@
   },
   {
     "medName": "Cetal",
-    "medImage": "https://mega.nz/file/0y0T0KCB#6Xq28_83IPpVpo1S3XuFXr8A6KSwSq_A4yWh6tBx_dA",
+    "medImage": "med_images/cetal.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -183,7 +183,7 @@
   },
   {
     "medName": "Brufen",
-    "medImage": "https://mega.nz/file/4mchyQ6J#PKR4L264BQvBzXLAk0mom5NZcMIix86IxGltNmvWAw4",
+    "medImage": "med_images/brufen.png",
     "activeIngredients": [
       "Ibuprofen"
     ],
