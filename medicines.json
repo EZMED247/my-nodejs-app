@@ -1,7 +1,7 @@
 [
   {
     "medName": "Doliprane",
-    "medImage": "http://10.0.2.2:3000/med_images/Doliprane.png",
+    "medImage": "https://ezmed.onrender.com/med_images/doliprane.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -35,7 +35,7 @@
   },
   {
     "medName": "Panadol Advance",
-    "medImage": "http://10.0.2.2:3000/med_images/panadol advance.png",
+    "medImage": "https://ezmed.onrender.com/med_images/panadol advance.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -80,7 +80,7 @@
   },
   {
     "medName": "Naproxen",
-    "medImage": "http://10.0.2.2:3000/med_images/naproxen.png",
+    "medImage": "https://ezmed.onrender.com/med_images/naproxen.png",
     "activeIngredients": [
       "Naproxen"
     ],
@@ -118,7 +118,7 @@
   },
   {
     "medName": "Ibuprofen",
-    "medImage": "http://10.0.2.2:3000/med_images/ibuprofen.png",
+    "medImage": "https://ezmed.onrender.com/med_images/ibuprofen.png",
     "activeIngredients": [
       "Ibuprofen"
     ],
@@ -150,7 +150,7 @@
   },
   {
     "medName": "Cetal",
-    "medImage": "http://10.0.2.2:3000/med_images/cetal.png",
+    "medImage": "https://ezmed.onrender.com/med_images/cetal.png",
     "activeIngredients": [
       "Paracetamol"
     ],
@@ -183,7 +183,7 @@
   },
   {
     "medName": "Brufen",
-    "medImage": "http://10.0.2.2:3000/med_images/brufen.png",
+    "medImage": "https://ezmed.onrender.com/med_images/brufen.png",
     "activeIngredients": [
       "Ibuprofen"
     ],
@@ -216,5 +216,110 @@
       "التهاب المعدة"
     ],
     "price": "51"
+  },
+  {
+    "medName": "Telfast",
+    "medNameArabic": "تلفاست",
+    "medImage": "https://ezmed.onrender.com/med_images/telfast.png",
+    "activeIngredients": [
+      "Fexofenadine"
+    ],
+    "activeIngredientsArabic": [
+      "فيكسوفينادين"
+    ],
+    "indications": [
+      "Congestion, Cold"
+    ],
+    "indicationsArabic": [
+      "احتقان , نزلات البرد"
+    ],
+    "sideEffects": [
+      "headache, vomiting"
+    ],
+    "sideEffectsArabic": [
+      "صداع , تقيؤ"
+    ],
+    "price": [
+      "32"
+    ]
+  },
+  {
+    "medName": "Fexodine",
+    "medNameArabic": "فيكسودين",
+    "medImage": "https://ezmed.onrender.com/med_images/fexodine.png",
+    "activeIngredients": [
+      "Fexofenadine"
+    ],
+    "activeIngredientsArabic": [
+      "فيكسوفينادين"
+    ],
+    "indications": [
+      "Congestion, Cold"
+    ],
+    "indicationsArabic": [
+      "احتقان , نزلات البرد"
+    ],
+    "sideEffects": [
+      "headache, vomiting"
+    ],
+    "sideEffectsArabic": [
+      "صداع , تقيؤ"
+    ],
+    "price": [
+      "16"
+    ]
+  },
+  {
+    "_id": "666027c2450cecabcefcbf3c",
+    "medName": "Comtrex",
+    "medNameArabic": "كومتركس",
+    "medImage": "https://ezmed.onrender.com/med_images/comtrex.png",
+    "activeIngredients": [
+      "Paracetamol, chlorpheniramine and pseudoephedrine"
+    ],
+    "activeIngredientsArabic": [
+      "الباراسيتامول ، كلورفينيرامين والسودوإيفيدرين"
+    ],
+    "indications": [
+      "Colds and flu"
+    ],
+    "indicationsArabic": [
+      "نزلات البرد والانفلونزا"
+    ],
+    "sideEffects": [
+      "Dizziness, drowsiness"
+    ],
+    "sideEffectsArabic": [
+      "دوار , نعاس"
+    ],
+    "price": [
+      "39"
+    ]
+  },
+  {
+    "medName": "Congestal",
+    "medNameArabic": "كونجستال",
+    "medImage": "https://ezmed.onrender.com/med_images/congestal.png",
+    "activeIngredients": [
+      "Paracetamol, chlorpheniramine and pseudoephedrine"
+    ],
+    "activeIngredientsArabic": [
+      "الباراسيتامول ، كلورفينيرامين والسودوإيفيدرين"
+    ],
+    "indications": [
+      "Colds and flu"
+    ],
+    "indicationsArabic": [
+      "نزلات البرد والانفلونزا"
+    ],
+    "sideEffects": [
+      "Dizziness, drowsiness"
+    ],
+    "sideEffectsArabic": [
+      "دوار , نعاس"
+    ],
+    "price": [
+      "20"
+    ]
   }
 ]
