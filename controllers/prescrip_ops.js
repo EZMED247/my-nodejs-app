@@ -1,7 +1,7 @@
 const upload = require('../models/upload')
 const { StatusCodes } = require('http-status-codes')
 
-const uploadsSearch = async (req, res) => {
+const displayAll = async (req, res) => {
     try {
         const displays = await upload.find({})
         res.status(StatusCodes.OK).json(displays)
@@ -11,7 +11,7 @@ const uploadsSearch = async (req, res) => {
     }
 }
 
-const prescibtion_delete = async (req, res) => {
+const prescription_delete = async (req, res) => {
     try {
         const { _id } = req.body
         const presc = await upload.findOneAndDelete({ _id })
@@ -34,6 +34,6 @@ const prescibtion_delete = async (req, res) => {
 }
 
 module.exports = {
-    uploadsSearch,
-    prescibtion_delete
+    displayAll,
+    prescription_delete
 }

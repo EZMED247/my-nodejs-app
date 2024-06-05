@@ -2,10 +2,10 @@ const express = require('express')
 const router = express.Router()
 const {
     displayAll,
-    prescibtion_delete
+    prescription_delete
 } = require('../controllers/prescrip_ops')
 
 router.get('/', displayAll)
-router.delete('/', prescibtion_delete)
+router.delete('/', prescription_delete)
 
 module.exports = router
