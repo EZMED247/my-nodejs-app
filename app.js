@@ -14,7 +14,7 @@ const checkPassRouter = require('./routes/checkPass');
 const profileRouter = require('./routes/profile');
 const medRouter = require('./routes/edit_med');
 const uploadRouter = require('./routes/upload');
-const displayRouter = require('./routes/display');
+const displayRouter = require('./routes/prescib_ops');
 
 // error handler
 const notFoundMiddleware = require('./middleware/not-found');
