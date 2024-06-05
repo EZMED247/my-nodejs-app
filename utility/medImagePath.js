@@ -9,7 +9,7 @@ const generateImagePath = (req, folderPath) => {
         const imageName = `${randomNumber}_${originalName}`;
         const imagePath = path.join(folderPath, imageName);
         fs.renameSync(req.file.path, imagePath);
-        const baseUrl = 'http://10.0.2.2:3000'; // Base URL for emulator setup
+        const baseUrl = process.env.BASE_URL || 'http://localhost:3000'; // Use BASE_URL from .env or fallback to localhost
         return `${baseUrl}/${folderPath}/${imageName}`; // Return full URL
     } catch (error) {
         console.error('Error processing file:', error);
