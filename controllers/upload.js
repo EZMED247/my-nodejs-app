@@ -1,13 +1,22 @@
 const upload = require('../models/upload');
 const { StatusCodes } = require('http-status-codes');
 const imgUtil = require('../utility/medImagePath');
-
+const sendEmail = require('../utility/email_service'); // Import the email service
 
 const fileUpload = async (req, res) => {
     try {
         const imageLink = imgUtil.generateImagePath(req, 'image_uploads');
 
         await upload.create({ ...req.body, imageLink });
+
+        // Send an email notification
+        sendEmail(
+            process.env.RECIPIENT_EMAIL, // Replace with the admin email
+            'New Prescription Uploaded',
+            `A new prescription has been uploaded
+            تم ارسال روشتة جديدة. 
+            Image link: ${imageLink}`
+        );
 
         res.status(StatusCodes.CREATED).json({
             success: true,

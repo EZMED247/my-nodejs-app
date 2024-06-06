@@ -336,6 +336,7 @@
       "iron"
     ],
     "indications": [
+      "vitamins",
       "osteoporosis",
       "anemia",
       "inflammation of the nerves"
@@ -376,6 +377,7 @@
       "fish oil"
     ],
     "indications": [
+      "vitamins",
       "Heart disease",
       "chronic diseases",
       "Rheumatism"
@@ -401,5 +403,69 @@
       "إمساك قبض المعدة"
     ],
     "price": "70"
+  },
+  {
+    "medName": "Arcalion",
+    "medImage": "https://ezmed.onrender.com/med_images/arcalion.png",
+    "activeIngredients": [
+      "Sulbutiamine"
+    ],
+    "indications": [
+      "vitamins",
+      "Diabetic neuropathy",
+      "Alzheimer's"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Fatigue and inability to sleep",
+      "Anorexia"
+    ],
+    "medNameArabic": "أركاليون",
+    "activeIngredientsArabic": [
+      "سالبيوتيامين"
+    ],
+    "indicationsArabic": [
+      "اعتلال الأعصاب السكري",
+      "ألزهايمر"
+    ],
+    "sideEffectsArabic": [
+      "الصداع",
+      "التعب وعدم القدرة على النوم",
+      "فقدان الشهية"
+    ],
+    "price": "41"
+  },
+  {
+    "medName": "Haema-Caps",
+    "medImage": "https://ezmed.onrender.com/med_images/haemacaps.png",
+    "activeIngredients": [
+      "Iutin, calcium, chromium, copper, iodine, iron, magnesium, manganese, molybdenum, retinol, zinc."
+    ],
+    "indications": [
+      "vitamins",
+      "lack of calcium",
+      "weak bone structure",
+      "Hypothyroidism"
+    ],
+    "sideEffects": [
+      "stomachache",
+      "diarrhea",
+      "constipation"
+    ],
+    "medNameArabic": "هيما - كابس",
+    "activeIngredientsArabic": [
+      "يوتين، كالسيوم، كروم، نحاس، يود، حديد، مغنيسيوم، منغنيز، موليبيدينوم، ريتينول، زنك"
+    ],
+    "indicationsArabic": [
+      "نقص الكالسيوم",
+      "ضعف بنية العظام",
+      "نقص نشاط الغدة الجاردرقية"
+    ],
+    "sideEffectsArabic": [
+      "اضطراب المعدة",
+      "إسهال",
+      "إمساك قبض المعدة"
+    ],
+    "price": "54"
   }
 ]
