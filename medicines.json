@@ -321,5 +321,85 @@
     "price": [
       "20"
     ]
+  },
+  {
+    "medName": "Vitayami",
+    "medImage": "https://ezmed.onrender.com/med_images/vitayami.png",
+    "activeIngredients": [
+      "ascorbic acid",
+      "biotin",
+      "calcium",
+      "chromium",
+      "colecalciferol",
+      "copper",
+      "iodine",
+      "iron"
+    ],
+    "indications": [
+      "osteoporosis",
+      "anemia",
+      "inflammation of the nerves"
+    ],
+    "sideEffects": [
+      "stomachache",
+      "diarrhea",
+      "constipation"
+    ],
+    "medNameArabic": "فيتايامي",
+    "activeIngredientsArabic": [
+      "حمض الاسكوربيك",
+      "البيوتين",
+      "الكالسيوم",
+      "الكروم",
+      "كوليكالسيفيرول",
+      "نحاس",
+      "اليود",
+      "حديد"
+    ],
+    "indicationsArabic": [
+      "هشاشة العظام",
+      " فقر الدم",
+      "التهاب الأعصاب"
+    ],
+    "sideEffectsArabic": [
+      "اضطراب المعدة",
+      "إسهال",
+      "إمساك قبض المعدة"
+    ],
+    "price": "67"
+  },
+  {
+    "medName": "Omega 3 Plus",
+    "medImage": "https://ezmed.onrender.com/med_images/omega3plus.png",
+    "activeIngredients": [
+      "wheat germ oil",
+      "fish oil"
+    ],
+    "indications": [
+      "Heart disease",
+      "chronic diseases",
+      "Rheumatism"
+    ],
+    "sideEffects": [
+      "stomachache",
+      "diarrhea",
+      "constipation"
+    ],
+    "medNameArabic": "اوميجا 3 بلس",
+    "activeIngredientsArabic": [
+      "زيت جنين القمح",
+      "زيت السمك"
+    ],
+    "indicationsArabic": [
+      "أمراض القلب",
+      "الأمراض المزمنة",
+      "الروماتيزم"
+    ],
+    "sideEffectsArabic": [
+      "اضطراب المعدة",
+      "إسهال",
+      "إمساك قبض المعدة"
+    ],
+    "price": "70"
   }
 ]
