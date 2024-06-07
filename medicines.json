@@ -467,5 +467,129 @@
       "إمساك قبض المعدة"
     ],
     "price": "54"
+  },
+  {
+    "medName": "Orlistat",
+    "medImage": "https://ezmed.onrender.com/med_images/orlistat.png",
+    "activeIngredients": [
+      "Orlistat"
+    ],
+    "indications": [
+      "Diet",
+      "Obesity"
+    ],
+    "sideEffects": [
+      "headache",
+      "oil stains",
+      "Abdominal pain",
+      "flatulence"
+    ],
+    "medNameArabic": "أورليستات",
+    "activeIngredientsArabic": [
+      "أورليستات"
+    ],
+    "indicationsArabic": [
+      "السمنة"
+    ],
+    "sideEffectsArabic": [
+      "صداع",
+      "بقع زيتية",
+      "ألم في البطن",
+      "انتفاخ البطن"
+    ],
+    "price": "68"
+  },
+  {
+    "medName": "Contrave",
+    "medImage": "https://ezmed.onrender.com/med_images/contrave.png",
+    "activeIngredients": [
+      "Bupropion, Naltrexone"
+    ],
+    "indications": [
+      "Diet",
+      "Obesity"
+    ],
+    "sideEffects": [
+      "headache",
+      "oil stains",
+      "Abdominal pain",
+      "flatulence"
+    ],
+    "medNameArabic": "كونتراف",
+    "activeIngredientsArabic": [
+      "بوبروبيون ونالتريكسون"
+    ],
+    "indicationsArabic": [
+      "السمنة"
+    ],
+    "sideEffectsArabic": [
+      "صداع",
+      "بقع زيتية",
+      "ألم في البطن",
+      "انتفاخ البطن"
+    ],
+    "price": "47"
+  },
+  {
+    "medName": "Saxenda",
+    "medImage": "https://ezmed.onrender.com/med_images/saxenda.png",
+    "activeIngredients": [
+      "Liraglutide"
+    ],
+    "indications": [
+      "Diet",
+      "Obesity"
+    ],
+    "sideEffects": [
+      "headache",
+      "oil stains",
+      "Abdominal pain",
+      "flatulence"
+    ],
+    "medNameArabic": "ليراجلوتايد",
+    "activeIngredientsArabic": [
+      "ليراجلوتايد"
+    ],
+    "indicationsArabic": [
+      "السمنة"
+    ],
+    "sideEffectsArabic": [
+      "صداع",
+      "بقع زيتية",
+      "ألم في البطن",
+      "انتفاخ البطن"
+    ],
+    "price": "75"
+  },
+  {
+    "medName": "Ozempic",
+    "medImage": "https://ezmed.onrender.com/med_images/ozempic.png",
+    "activeIngredients": [
+      "Semaglutide"
+    ],
+    "indications": [
+      "Diet",
+      "Obesity"
+    ],
+    "sideEffects": [
+      "headache",
+      "oil stains",
+      "Abdominal pain",
+      "flatulence"
+    ],
+    "medNameArabic": "اوزيمبك",
+    "activeIngredientsArabic": [
+      "سيماغلوتيد"
+    ],
+    "indicationsArabic": [
+      "السمنة"
+    ],
+    "sideEffectsArabic": [
+      "صداع",
+      "بقع زيتية",
+      "ألم في البطن",
+      "انتفاخ البطن"
+    ],
+    "price": "70"
   }
 ]
