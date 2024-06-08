@@ -591,5 +591,207 @@
       "انتفاخ البطن"
     ],
     "price": "70"
+  },
+  {
+    "medName": "PrimaDar",
+    "medImage": "https://ezmed.onrender.com/med_images/primadar.png",
+    "activeIngredients": [
+      "Millet extract, L-cysteine, calcium pantothenate, biotin"
+    ],
+    "indications": [
+      "Hair Loss",
+      "dandruff",
+      "Hair breakage"
+    ],
+    "sideEffects": [
+      "Digestive disorder",
+      "nausea",
+      "headache",
+      "vertigo"
+    ],
+    "medNameArabic": "بريمادار",
+    "activeIngredientsArabic": [
+      "مستخلص الدخن، ل- سيستين، بانتوثينات الكالسيوم، بيوتين"
+    ],
+    "indicationsArabic": [
+      "تساقط الشعر",
+      "قشرة رأس",
+      "تقصف الشعر"
+    ],
+    "sideEffectsArabic": [
+      "اضطراب الهضم",
+      "امساك",
+      "غثيان",
+      "صداع"
+    ],
+    "price": "500"
+  },
+  {
+    "medName": "Alde Eva",
+    "medImage": "https://ezmed.onrender.com/med_images/aldeeva.png",
+    "activeIngredients": [
+      ""
+    ],
+    "indications": [
+      "Hair Loss",
+      "dandruff",
+      "Hair breakage"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "الدي ايفا",
+    "activeIngredientsArabic": [
+      ""
+    ],
+    "indicationsArabic": [
+      "تساقط الشعر",
+      "قشرة رأس",
+      "تقصف الشعر"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "63"
+  },
+  {
+    "medName": "Collagen",
+    "medImage": "https://ezmed.onrender.com/med_images/collagen.png",
+    "activeIngredients": [
+      ""
+    ],
+    "indications": [
+      "Hair Loss",
+      "dandruff",
+      "Hair breakage"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "كولاجين",
+    "activeIngredientsArabic": [
+      ""
+    ],
+    "indicationsArabic": [
+      "تساقط الشعر",
+      "قشرة رأس",
+      "تقصف الشعر"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "189"
+  },
+  {
+    "medName": "StrongVille",
+    "medImage": "https://ezmed.onrender.com/med_images/strongville.png",
+    "activeIngredients": [
+      "Procapil Cerafis Castor Oil, Biotin, Saw Palmetto, Caffeine",
+      "Biotin, Snake Oil, Olive Oil",
+      "White Germ Oil"
+    ],
+    "indications": [
+      "Hair Loss",
+      "dandruff",
+      "Hair breakage"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "سترونج فيل",
+    "activeIngredientsArabic": [
+      "زيت الخروع بروكابيل كيرافيس، البيوتين، زيت الجرثومة البيضاء",
+      "زيت الثعبان، زيت الزيتون، بالميتو، الكافيين"
+    ],
+    "indicationsArabic": [
+      "تساقط الشعر",
+      "قشرة رأس",
+      "تقصف الشعر"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "345"
+  },
+  {
+    "medName": "Nivia Soft",
+    "medImage": "https://ezmed.onrender.com/med_images/niviasoft.png",
+    "activeIngredients": [
+      "Glycerin, Paraffinum Liquidum, Myristyl Alcohol, Butylene"
+    ],
+    "indications": [
+      "Beauty product",
+      "Moisturising Cream"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "نيفيا سوفت",
+    "activeIngredientsArabic": [
+      "جليسرين، بارافينوم سائل، كحول ميريستيل، بوتيلين"
+    ],
+    "indicationsArabic": [
+      "مرطب"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "114"
+  },
+  {
+    "medName": "Infinity Akren",
+    "medImage": "https://ezmed.onrender.com/med_images/infinityakren.png",
+    "activeIngredients": [
+      "Procapil Cerafis Castor Oil, Biotin, Saw Palmetto, Caffeine",
+      "Biotin, Snake Oil, Olive Oil",
+      "White Germ Oil"
+    ],
+    "indications": [
+      "skin cleanser",
+      "Beauty product"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "انفينيتي اكرن",
+    "activeIngredientsArabic": [
+      "زيت الخروع بروكابيل كيرافيس، البيوتين، زيت الجرثومة البيضاء",
+      "زيت الثعبان، زيت الزيتون، بالميتو، الكافيين"
+    ],
+    "indicationsArabic": [
+      "منظف ​​البشرة"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "240"
+  },
+  {
+    "medName": "Luna Emollient",
+    "medImage": "https://ezmed.onrender.com/med_images/lunaemollient.png",
+    "activeIngredients": [
+      "Procapil Cerafis Castor Oil, Biotin, Saw Palmetto, Caffeine",
+      "Biotin, Snake Oil, Olive Oil",
+      "White Germ Oil"
+    ],
+    "indications": [
+      "Lip therapy",
+      "Beauty product"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "لونا ايمولينت",
+    "activeIngredientsArabic": [
+      "زيت الخروع بروكابيل كيرافيس، البيوتين، زيت الجرثومة البيضاء",
+      "زيت الثعبان، زيت الزيتون، بالميتو، الكافيين"
+    ],
+    "indicationsArabic": [
+      "جفاف الشفة"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "39"
   }
 ]
