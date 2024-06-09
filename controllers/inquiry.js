@@ -8,7 +8,7 @@ const sendInquiry = async (req, res) => {
 
         // Validate the input data
         if (!name || !email || !phone || !inquiry) {
-            return res.status(StatusCodes.BAD_REQUEST).json({ error: 'Name, email, and inquiry are required.' });
+            return res.status(StatusCodes.BAD_REQUEST).json({ error: 'Name, Email, Phone, and Inquiry are required.' });
         }
 
         // Format the email content
@@ -19,11 +19,11 @@ const sendInquiry = async (req, res) => {
         sendEmail(process.env.RECIPIENT_EMAIL, subject, text);
 
         // Send a success response
-        res.status(StatusCodes.OK).json({ message: 'Inquiry sent successfully.' });
+        res.status(StatusCodes.OK).json({ message: 'Inquiry Sent Successfully, Please wait for one of the Pharmacists to respond to your inquiry via SMS or E-mail' });
     } catch (error) {
         // Handle any errors
         console.error(error);
-        res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({ error: 'Failed to send inquiry.' });
+        res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({ error: 'Failed to Send Snquiry.' });
     }
 };
 
