@@ -14,7 +14,8 @@ const checkPassRouter = require('./routes/checkPass');
 const profileRouter = require('./routes/profile');
 const medRouter = require('./routes/edit_med');
 const uploadRouter = require('./routes/upload');
-const displayRouter = require('./routes/prescrip_ops');
+const displayRouter = require('./routes/prescrip_ops')
+const sendInquiry = require('./routes/inquiry')
 
 // error handler
 const notFoundMiddleware = require('./middleware/not-found');
@@ -31,13 +32,14 @@ app.use('/med_images', express.static(path.join(__dirname, 'med_images')));
 // extra packages
 
 // routes
-app.use('/api/v1/auth', authRouter);
-app.use('/api/v1/search', searchRouter);
-app.use('/api/v1/checkpass', checkPassRouter);
-app.use('/api/v1/editprofile', profileRouter);
-app.use('/api/v1/editmedicine', medRouter);
-app.use('/api/v1/upload', uploadRouter);
-app.use('/api/v1/admindisplay', displayRouter);
+app.use('/api/v1/auth', authRouter)
+app.use('/api/v1/search', searchRouter)
+app.use('/api/v1/checkpass', checkPassRouter)
+app.use('/api/v1/editprofile', profileRouter)
+app.use('/api/v1/editmedicine', medRouter)
+app.use('/api/v1/upload', uploadRouter)
+app.use('/api/v1/admindisplay', displayRouter)
+app.use('/api/v1/sendinquiry', sendInquiry)
 
 app.use(notFoundMiddleware);
 app.use(errorHandlerMiddleware);

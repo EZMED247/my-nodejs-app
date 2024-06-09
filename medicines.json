@@ -627,10 +627,17 @@
     "price": "500"
   },
   {
-    "medName": "Alde Eva",
+    "medName": "Aloe Eva",
     "medImage": "https://ezmed.onrender.com/med_images/aldeeva.png",
     "activeIngredients": [
-      ""
+      "Aloe Vera Extract",
+      "Argania Spinosa Kernel Oil (Argan Oil)",
+      "Glycerin",
+      "Cetearyl Alcohol",
+      "Behentrimonium Chloride",
+      "Cyclopentasiloxane",
+      "Dimethiconol",
+      "Propylene Glycol"
     ],
     "indications": [
       "Hair Loss",
@@ -640,9 +647,16 @@
     "sideEffects": [
       ""
     ],
-    "medNameArabic": "الدي ايفا",
+    "medNameArabic": "الوي ايفا",
     "activeIngredientsArabic": [
-      ""
+      "خلاصة الصبار",
+      "زيت نواة أرغانيا سبينوزا (زيت الأرغان)",
+      "جلسيرين",
+      "كحول السيتاريل",
+      "كلوريد البينتريمونيوم",
+      "سيكلوبنتاسيلوكسان",
+      "ديميثيكونول",
+      "البروبيلين غليكول"
     ],
     "indicationsArabic": [
       "تساقط الشعر",
@@ -658,7 +672,9 @@
     "medName": "Collagen",
     "medImage": "https://ezmed.onrender.com/med_images/collagen.png",
     "activeIngredients": [
-      ""
+      "glycine",
+      "proline",
+      "hydroxyproline"
     ],
     "indications": [
       "Hair Loss",
@@ -670,7 +686,9 @@
     ],
     "medNameArabic": "كولاجين",
     "activeIngredientsArabic": [
-      ""
+      "الجليسين",
+      "برولين",
+      "هيدروكسي برولين"
     ],
     "indicationsArabic": [
       "تساقط الشعر",
@@ -765,6 +783,34 @@
       ""
     ],
     "price": "240"
+  },
+  {
+    "medName": "Luna Emollient",
+    "medImage": "https://ezmed.onrender.com/med_images/lunaemollient.png",
+    "activeIngredients": [
+      "Procapil Cerafis Castor Oil, Biotin, Saw Palmetto, Caffeine",
+      "Biotin, Snake Oil, Olive Oil",
+      "White Germ Oil"
+    ],
+    "indications": [
+      "Lip therapy",
+      "Beauty product"
+    ],
+    "sideEffects": [
+      ""
+    ],
+    "medNameArabic": "لونا ايمولينت",
+    "activeIngredientsArabic": [
+      "زيت الخروع بروكابيل كيرافيس، البيوتين، زيت الجرثومة البيضاء",
+      "زيت الثعبان، زيت الزيتون، بالميتو، الكافيين"
+    ],
+    "indicationsArabic": [
+      "جفاف الشفة"
+    ],
+    "sideEffectsArabic": [
+      ""
+    ],
+    "price": "39"
   },
   {
     "medName": "Luna Emollient",
