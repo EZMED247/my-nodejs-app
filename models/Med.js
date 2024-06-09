@@ -32,7 +32,7 @@ const MedicineSchema = new mongoose.Schema({
     },
     sideEffects: {
         type: [String],
-        required: true
+        required: false
     },
     sideEffectsArabic: {
         type: [String],
