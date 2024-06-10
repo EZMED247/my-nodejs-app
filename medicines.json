@@ -239,9 +239,7 @@
     "sideEffectsArabic": [
       "صداع , تقيؤ"
     ],
-    "price": [
-      "32"
-    ]
+    "price": "32"
   },
   {
     "medName": "Fexodine",
@@ -265,9 +263,7 @@
     "sideEffectsArabic": [
       "صداع , تقيؤ"
     ],
-    "price": [
-      "16"
-    ]
+    "price": "16"
   },
   {
     "_id": "666027c2450cecabcefcbf3c",
@@ -292,9 +288,7 @@
     "sideEffectsArabic": [
       "دوار , نعاس"
     ],
-    "price": [
-      "39"
-    ]
+    "price": "39"
   },
   {
     "medName": "Congestal",
@@ -318,9 +312,7 @@
     "sideEffectsArabic": [
       "دوار , نعاس"
     ],
-    "price": [
-      "20"
-    ]
+    "price": "20"
   },
   {
     "medName": "Vitayami",
